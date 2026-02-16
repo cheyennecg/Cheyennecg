@@ -14,7 +14,6 @@
 * 🎨 Disfrutar del **festival de colores** en mi VS Code: 🟢 **A** de "a ver si esto funciona" y 🟠 **M** de "mejor no toques más".
 * 🔄 Entender que si todo se va al garete siempre puedo volver a `main`, un poco como la vida, ¿no?
 * ✨ Que la fórmula `sum()` de Python haga su magia.
-* 💪 **Seguir intentándolo**: Aunque sea un mundo nuevo para mí y no tenga ni idea, alguien una vez me dijo: *Hazlo, y si tienes miedo, hazlo con miedo*.
 
 
 ## ⚡ Dato curioso
@@ -22,6 +21,7 @@
 - 🎧 La música es mi fiel compañero.
 - ☕ El café y una vuelta a tiempo te salva de no morir en el intento de descifrar patrones.
 - 🌍 Siempre campo
+- 💪  Aunque sea un mundo nuevo para mí y no tenga ni idea, alguien una vez me dijo: *Hazlo, y si tienes miedo, hazlo con miedo*.
 
 ## 🛠️ Tech Stack
 
