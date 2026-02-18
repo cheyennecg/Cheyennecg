@@ -3,17 +3,17 @@
 
 ## 📚 Actualmente aprendiendo
 
-- 🐍 Python para análisis de datos (Pandas, NumPy)
-- 🗃️ SQL y bases de datos relacionales
-- 📊 Visualización de datos con Tableau
-- 🤖 Introducción a Machine Learning
+- Python para análisis de datos (Pandas, NumPy)
+- SQL y bases de datos relacionales
+- Visualización de datos con Tableau
+- Introducción a Machine Learning
 ---
 
 ### 🔭 Mi especialidad ahora mismo: Probar cosas sin romper el ordenador en el intento
-* 💾 Saber que el **autoguardado** es mi mejor amigo y ver que no existe el puntito blanco me pone feliz.
-* 🎨 Disfrutar del **festival de colores** en mi VS Code: 🟢 **A** de "a ver si esto funciona" y 🟠 **M** de "mejor no toques más".
-* 🔄 Entender que si todo se va al garete siempre puedo volver a `main`, un poco como la vida, ¿no?
-* ✨ Que la fórmula `sum()` de Python haga su magia.
+* Saber que el **autoguardado** es mi mejor amigo y ver que no existe el puntito blanco me pone feliz.
+* Disfrutar del **festival de colores** en mi VS Code: 🟢 **A** de "a ver si esto funciona" y 🟠 **M** de "mejor no toques más".
+* Entender que si todo se va al garete siempre puedo volver a `main`, un poco como la vida, ¿no?
+* Que la fórmula `sum()` de Python haga su magia.
 
 
 ## ⚡ Dato curioso
